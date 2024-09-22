@@ -15,7 +15,7 @@ In this implementation, we will use the Moving Range Breakout strategy and Daish
 - For futures trading, ensure you have completed the necessary educational courses and met any other prerequisites specific to your region.
 
 ## Overview
-![system architecture](https://github.com/user-attachments/assets/973a51a9-ceb2-40e6-9526-60955f889016)
+![system architecture](https://github.com/user-attachments/assets/b9f67c1e-a2ea-46d8-8dcc-4ec51daa5e54)
 
 - Many actions are based on the brokerage API:
     - For the chart building module:
